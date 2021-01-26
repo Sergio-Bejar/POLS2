@@ -2,7 +2,7 @@
 output: 
   pdf_document:
     latex_engine: pdflatex
-    template: template.tex
+    template: templete.tex
 geometry: margin=1in
 
 title: "POLS 2-01: Introduction to Comparative Politics"
@@ -84,10 +84,10 @@ This class satisfies the D2 general education requirement (Comparative Systems, 
 
 Assessment of these outcomes will be measured as follows:
  
-GELO 1: Discussion boards, Twitter engagement, exams, group projects.
-GELO 2: Quizzes, Twitter engagement, group projects. 
-GELO 3: Discussion boards, exams. 
-GELO 4: Quizzes, discussion boards, Twitter engagement. 
+1. GELO 1: Discussion boards, Twitter engagement, exams, group projects.
+2. GELO 2: Quizzes, Twitter engagement, group projects. 
+3. GELO 3: Discussion boards, exams. 
+4. GELO 4: Quizzes, discussion boards, Twitter engagement. 
 
 **See below for a detailed description of each of the aforementioned assignments and their requirements**
 
@@ -117,9 +117,9 @@ Students will also read a variety of newspaper and magazine articles. The course
 | **Assignment**         | **Weight**             | 
 |:--: | :--: | :--: |
 | Discussion Boards | 5 x 6% each = 30%  |           
-| Group Projects    | 2 x 12.5% each = 25%|           
+| Group Projects    | 3 x 10% each = 30%|           
 | Exams             | 2 x 12.5% each = 25% |           
-| Quizes            | 5 X 3%  each = 15% |  
+| Quizes            | 5 X 2%  each = 10% |  
 |Twitter Engagement | 5% |
 
 
@@ -133,9 +133,11 @@ If I have some concerns or comments about your thread, I will post a response. M
 
 **Group Projects:** Once the final roster of the class is available, I will randomly assign you to a working group (or team).  As a team, you will craft two (2) short essays.  The topics are below. Each brief should be 1,000 words long (max). 
 
-1. *Country Profile*: Each group will be assigned a country different from the United States. On **February, 24th**  you will present a country profile consisting of a short narrative and key economic and and political. The narrative should focus on the country’s modern evolution – the most salient political parties (PRI if studying Mexico, for example), social or political cleavages (agrarian elites versus Evo Morales in Bolivia for example) and major current events (The Olympics and their backlash in Japan).
+1. *Online Game*: You will meet your classmates virtually to play the [3rd World Farmer](https://3rdworldfarmer.org/) game (fun!). This activity should not take more than 20-30 minutes.  You are responsible to organize the online meeting on Zoom or any other platform that allows you to communicate with your classmates.  As a group, you will then write a short report (500 words) about your experience playing the game.  How did you make decisions?  Why?  What are the main lessons you learned from playing the game? This report will be submitted on Canvas no later than **February 24th**.
 
-2. *Current Events*: Due **April 14th**. With your team, you will present the most salient political or economic event preoccupying the public, or government, currently. This might be a regional dispute, an anti-terrorist operation, an indigenous group’s protest, or an economic crisis. You can draw from class resources, though you may need to read ahead, or outside of class, in order to best grapple with the analysis.
+2. *Country Profile:* Each group will be assigned a country different from the United States. You will present a country profile consisting of a short narrative and key economic and and political. The narrative should focus on the country’s modern evolution – the most salient political parties (PRI if studying Mexico, for example), social or political cleavages (agrarian elites versus Evo Morales in Bolivia for example) and major current events (The Olympics and their backlash in Japan). Due **April 14th**
+
+3. *Current Events:* Due **May 15th**. With your team, you will present the most salient political or economic event preoccupying the public, or government, currently. This might be a regional dispute, an anti-terrorist operation, an indigenous group’s protest, or an economic crisis. You can draw from class resources, though you may need to read ahead, or outside of class, in order to best grapple with the analysis.
 
 
 **Quizzes:** There will be 5 quizzes.  Each of them will ask questions about the video lecture presentation(s) of the different modules. Success in these quizzes is simple: watch the lectures, take notes, pay attention and review your notes before the quizz.  See course calendar below for due dates.  *Late quizzes –even a second late- will receive a zero.*
@@ -211,6 +213,7 @@ Students who are suspected of cheating during an exam/quiz/assignment will be re
 |||3. Read [Saldinger](https://www.devex.com/news/tackling-the-problems-of-fragile-states-in-africa-90212)|
 |||**Respond to Classmates' Posts by February 8th, (5pm)**|
 |||**Quiz #2 due February 12th (5pm)**|
+|||**Group Report #1: Online Game due February 15th**|
 |||**Discussion Board #2 due February, 19th (5pm)**|
 ||||
 |4|February 22 - March 5| **Political Regimes: Democracy and Autocracy**|
@@ -253,5 +256,6 @@ Students who are suspected of cheating during an exam/quiz/assignment will be re
 |||2. Read Samuels, Chapter 13|
 |||**Respond to Classmates' Posts by May 3rd (5pm)**|
 |||**Quiz #5 due May 10th (5pm)**|
+|||**Group Project #3 due May 15th (5pm)**|
 ||||
 |11| May 19| **Online Exam Posted, due May 21st (5pm)**|
